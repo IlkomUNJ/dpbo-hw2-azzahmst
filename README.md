@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SCVt0OYF)
-Name: ................
+Name: Azzah Mujahidah Ramadhani Yasyah
 
-NIM : ................
+NIM : 1313622026
 
 # Instruction
 1. Fill in your details
@@ -11,8 +11,10 @@ NIM : ................
 5. This assignment is due October 20th, 23:55 AM
 
 # Features Implemented (list all completed)
-1. ...............
-2. 
+1. Sistem Bank: Membuat akun baru, top up saldo, dan penarikan saldo
+2. Sistem Seller: Registrasi seller baru (harus memiliki akun bank), menambahkan barang untuk dijual
+3. Sistem Transaksi: Pembelian barang oleh buyer, lihat transaksi, update saldo dan stok setelah transaksi
+4. Menyimpan semua transaksi ke file data.txt setelah program ditutup
 
 # Collaborators (The person you learned from)
 1. ..........
@@ -21,10 +23,10 @@ NIM : ................
 1. ...........
 
 # AI Assistance
-AI Tools: .............
+AI Tools: Claude AI
 
-Paid AI Plugin (state none, if not subscribed): .............
+Paid AI Plugin (state none, if not subscribed): None
 
-Total Prompts used (int estimate): .............
+Total Prompts used (int estimate): ±10
 
-Dominant prompt used for (seek solution / implement ideas) : ..............
+Dominant prompt used for (seek solution / implement ideas) : Memperbaiki alur program, membantu menjelaskan, dan solving error saat kode dijalankan
